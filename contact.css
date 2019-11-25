@@ -1,0 +1,22 @@
+body {
+	background-image: url("https://pbs.twimg.com/media/EIjGHJiW4AAF8ZE?format=jpg&name=4096x4096");
+        background-repeat:no-repeat;
+       background-size:cover;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.footer-background {
+    background: rgba(102, 124, 105, 0.5);
+    margin-top: 40px;
+}
+
+.list-color {
+    color: black;
+}
+
+.logo {
+    margin: 0 auto;
+}
